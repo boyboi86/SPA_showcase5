@@ -8,6 +8,9 @@ At the same time, make sure you are not using port 8080
 ## Instructions
 
 Check npm with $ npm -v
+
 Then $ npm install
+
 Follow by $ npm start
+
 go to localhost or 127.0.0.1 port 8080.
